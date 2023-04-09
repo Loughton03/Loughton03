@@ -10,6 +10,12 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Loughton03/Configure-ActiveDirectory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Loughton03/azure-network-protocols)
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Azure / Cloud Cybersecurity Projects</b>
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/Loughton03/osticket-prereqs)
+
+
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>HTML, CSS, Javascript</b>
