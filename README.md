@@ -13,7 +13,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/Loughton03/osticket-prereqs)
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/Loughton03/Azure-SOC)
 
 
 <h2>👨‍💻 Coding Projects:</h2>
