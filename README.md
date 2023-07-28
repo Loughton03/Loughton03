@@ -14,6 +14,14 @@
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/Loughton03/Azure-SOC)
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/Loughton03/Azure-SOC)
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/Loughton03/Azure-SOC)
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/Loughton03/Azure-SOC)
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/Loughton03/Azure-SOC)
+
+
+
+
 
 
 <h2>👨‍💻 Coding Projects:</h2>
