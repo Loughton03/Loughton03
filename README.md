@@ -13,11 +13,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Creating a Live SOC / Honeynet in Azure</b>
-  - [Pre-Requisites, SQL, Failed Authentication, Active Directory](https://github.com/Loughton03/Azure-SOC)
-  - [Logging and Monitoring](https://github.com/Loughton03/Azure-SOC)
-  - [Microsoft Sentinel SIEM](https://github.com/Loughton03/Azure-SOC)
+  - [Prerequisites, SQL, Failed Authentication, Active Directory](https://github.com/Loughton03/prerequisites)
+  - [Logging and Monitoring](https://github.com/Loughton03/logging-and-monitoring)
+  - [Microsoft Sentinel SIEM](https://github.com/Loughton03/microsoft-sentinel-siem)
   - [Secure Cloud Configuration](https://github.com/Loughton03/Azure-SOC)
-  - [Summary](https://github.com/Loughton03/Azure-SOC)
+  - [Summary](https://github.com/Loughton03/summary)
 
 
 
