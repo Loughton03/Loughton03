@@ -12,12 +12,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Azure / Cloud Cybersecurity Projects</b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/Loughton03/Azure-SOC)
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/Loughton03/Azure-SOC)
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/Loughton03/Azure-SOC)
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/Loughton03/Azure-SOC)
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/Loughton03/Azure-SOC)
+- <b>Creating a Live SOC / Honeynet in Azure</b>
+  - [Pre-Requisites, SQL, Failed Authentication, Active Directory](https://github.com/Loughton03/Azure-SOC)
+  - [Logging and Monitoring](https://github.com/Loughton03/Azure-SOC)
+  - [Microsoft Sentinel SIEM](https://github.com/Loughton03/Azure-SOC)
+  - [Secure Cloud Configuration](https://github.com/Loughton03/Azure-SOC)
+  - [Summary](https://github.com/Loughton03/Azure-SOC)
 
 
 
@@ -27,9 +27,13 @@
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>HTML, CSS, Javascript</b>
-  - [](https://github.com/Loughton03/osticket-prereqs)
-  - [](https://github.com/Loughton03/post-install-config)
-  - [](https://github.com/Loughton03/ticket-lifecycle)
+  - [Hundo](https://github.com/Loughton03/osticket-prereqs)
+  - [Rewind](https://github.com/Loughton03/post-install-config)
+  - [FizzBuzz](https://github.com/Loughton03/ticket-lifecycle)
+  - [Loan Shark](https://github.com/Loughton03/ticket-lifecycle)
+  - [Taco Cat](https://github.com/Loughton03/ticket-lifecycle)
+
+
 
 
 
