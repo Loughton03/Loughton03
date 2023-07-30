@@ -14,6 +14,8 @@
 
 - <b>Creating a Live SOC / Honeynet in Azure</b>
   - [Prerequisites, SQL, Failed Authentication, Active Directory](https://github.com/Loughton03/soc-prerequisites)
+  - [Authentication](https://github.com/Loughton03/soc-authentication)
+  - [Active Directory](https://github.com/Loughton03/soc-active-directory)
   - [Logging and Monitoring](https://github.com/Loughton03/soc-logging-and-monitoring)
   - [Microsoft Sentinel SIEM](https://github.com/Loughton03/soc-microsoft-sentinel-siem)
   - [Secure Cloud Configuration](https://github.com/Loughton03/Azure-SOC)
