@@ -13,7 +13,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Creating a Live SOC / Honeynet in Azure</b>
-  - [Prerequisites, SQL, Failed Authentication, Active Directory](https://github.com/Loughton03/soc-prerequisites)
+  - [Prerequisites](https://github.com/Loughton03/soc-prerequisites)
   - [Authentication](https://github.com/Loughton03/soc-authentication)
   - [Active Directory](https://github.com/Loughton03/soc-active-directory)
   - [Logging and Monitoring](https://github.com/Loughton03/soc-logging-and-monitoring)
