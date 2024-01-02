@@ -16,6 +16,7 @@
   - [Prerequisites](https://github.com/Loughton03/soc-prerequisites)
   - [Authentication](https://github.com/Loughton03/soc-authentication)
   - [Active Directory](https://github.com/Loughton03/soc-active-directory)
+  - [Honeynet in Azure](https://github.com/Loughton03/honeynet-in-azure)
   - [Logging and Monitoring](https://github.com/Loughton03/soc-logging-and-monitoring)
   - [Microsoft Sentinel SIEM](https://github.com/Loughton03/soc-microsoft-sentinel-siem)
   - [Secure Cloud Configuration](https://github.com/Loughton03/Azure-SOC)
