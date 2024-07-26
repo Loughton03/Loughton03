@@ -14,13 +14,7 @@
 
 - <b>Creating a Live SOC / Honeynet in Azure</b>
   - [Azure SOC Honeynet](https://github.com/Loughton03/Azure-SOC)
-  - [OS Ticket Template](https://github.com/Loughton03/OS-Ticket-Template)
-
-
-
-
-
-
+  
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>HTML, CSS, Javascript</b>
