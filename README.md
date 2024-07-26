@@ -13,7 +13,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Creating a Live SOC / Honeynet in Azure</b>
-  - [Authentication](https://github.com/Loughton03/soc-authentication)
   - [Active Directory](https://github.com/Loughton03/soc-active-directory)
   - [Honeynet in Azure](https://github.com/Loughton03/honeynet-in-azure)
   - [Logging and Monitoring](https://github.com/Loughton03/soc-logging-and-monitoring)
