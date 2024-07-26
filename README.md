@@ -13,7 +13,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Creating a Live SOC / Honeynet in Azure</b>
-  - [Logging and Monitoring](https://github.com/Loughton03/soc-logging-and-monitoring)
   - [Microsoft Sentinel SIEM](https://github.com/Loughton03/soc-microsoft-sentinel-siem)
   - [Azure SOC Honeynet](https://github.com/Loughton03/Azure-SOC)
   - [Summary](https://github.com/Loughton03/soc-summary)
