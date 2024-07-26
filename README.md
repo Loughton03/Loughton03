@@ -20,7 +20,7 @@
 - <b>HTML, CSS, Javascript</b>
   - [Hundo](https://github.com/Loughton03/Hundo)
   - [Rewind](https://github.com/Loughton03/Rewind)
-  - [FizzBuzz](https://github.com/Loughton03/ticket-lifecycle)
+  - [FizzBuzz](https://github.com/Loughton03/Fizz-Buzz)
   - [Loan Shark](https://github.com/Loughton03/ticket-lifecycle)
   - [Taco Cat](https://github.com/Loughton03/ticket-lifecycle)
 
