@@ -18,7 +18,7 @@
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>HTML, CSS, Javascript</b>
-  - [Hundo](https://github.com/Loughton03/osticket-prereqs)
+  - [Hundo](https://github.com/Loughton03/Hundo)
   - [Rewind](https://github.com/Loughton03/post-install-config)
   - [FizzBuzz](https://github.com/Loughton03/ticket-lifecycle)
   - [Loan Shark](https://github.com/Loughton03/ticket-lifecycle)
