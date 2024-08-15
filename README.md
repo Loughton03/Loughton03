@@ -16,7 +16,7 @@
   - [Azure SOC Honeynet](https://github.com/Loughton03/Azure-SOC)
  
 - <b>Securing a SOC Environment To Be NIST SP 800-53 R5 Compliant</b>
-  - [Securing a SOC](https://github.com/Loughton03/Azure-SOC)
+  - [Securing a SOC](https://github.com/Loughton03/Securing-SOC)
   
 <h2>👨‍💻 Coding Projects:</h2>
 
