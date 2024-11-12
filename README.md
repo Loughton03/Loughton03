@@ -15,8 +15,11 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Loughton03/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Loughton03/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Loughton03/Configure-ActiveDirectory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Loughton03/azure-network-protocols)
+  - [Inspecting Network Traffic Between Azure Virtual Machines](https://github.com/Loughton03/Inspecting-Network-Traffic)
+  - [Installing Active Directory in Azure](https://github.com/Loughton03/Installing-Active-Directory)
+  - [Configuring Active Directory in Azure](https://github.com/Loughton03/Configuring-Active-Directory)
+  - [Exploring DNS in Practice](https://github.com/Loughton03/Exploring-DNS)
+  - [Understanding File Permissions in an Active Directory Environment](https://github.com/Loughton03/File-Permissions-in-Active-Directory)
   
 
 
