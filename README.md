@@ -15,22 +15,29 @@
  
 ## 🚨 Threat Hunting and Security Operations
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Loughton03/Securing-SOC)**
+- **[Windows Script Execution Attack - Incident Response (Atomic Red)](https://github.com/Loughton03/Securing-SOC)**
 <br>  
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
-  - [Inspecting Network Traffic Between Azure Virtual Machines](https://github.com/Loughton03/Inspecting-Network-Traffic)
-  - [Installing Active Directory in Azure](https://github.com/Loughton03/Installing-Active-Directory)
-  - [Configuring Active Directory in Azure](https://github.com/Loughton03/Configuring-Active-Directory)
-  - [Exploring DNS in Practice](https://github.com/Loughton03/Exploring-DNS)
-  - [Understanding File Permissions in an Active Directory Environment](https://github.com/Loughton03/File-Permissions-in-Active-Directory)
-    
-- <b>osTicket (Help Desk Ticketing System)</b>
+<details>
+<summary>Microsoft Azure</summary><br>
+ 
+  - [Inspecting Network Traffic Between Azure Virtual Machines](https://github.com/Loughton03/Inspecting-Network-Traffic)<br>
+  - [Installing Active Directory in Azure](https://github.com/Loughton03/Installing-Active-Directory)<br>
+  - [Configuring Active Directory in Azure](https://github.com/Loughton03/Configuring-Active-Directory)<br>
+  - [Exploring DNS in Practice](https://github.com/Loughton03/Exploring-DNS)<br>
+  - [Understanding File Permissions in an Active Directory Environment](https://github.com/Loughton03/File-Permissions-in-Active-Directory)<br>
+</details>
+
+<details>
+<summary>Active Directory - osTicket (Help Desk Ticketing System)</summary><br>
+ 
   - [osTicket: Prerequisites and Installation](https://github.com/Loughton03/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Loughton03/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Loughton03/ticket-lifecycle)
- 
+</details> 
+
 <hr/>
 
 ## 🤳 Connect With Me
