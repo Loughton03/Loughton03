@@ -15,7 +15,7 @@
  
 ## 🚨 Threat Hunting and Security Operations
 - **[Threat Hunting Report (Tor Browser Usage)](https://github.com/Loughton03/Threat-Hunting-Report)**
-- **[Windows Script Execution Attack - Incident Response (Atomic Red)](github.com/Loughton03/Windows-Script-Execution-Attack)**
+- **[Windows Script Execution Attack - Incident Response (Atomic Red)](https://github.com/Loughton03/Windows-Script-Execution-Attack)**
 <br>  
 
 <h2>👨‍💻 Information Technology Projects:</h2>
