@@ -14,7 +14,7 @@
 <br>
  
 ## 🚨 Threat Hunting and Security Operations
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Loughton03/Securing-SOC)**
+- **[Threat Hunting Report (Tor Browser Usage)](https://github.com/Loughton03/Securing-SOC)**
 - **[Windows Script Execution Attack - Incident Response (Atomic Red)](https://github.com/Loughton03/Securing-SOC)**
 <br>  
 
