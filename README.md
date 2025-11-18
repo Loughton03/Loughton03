@@ -8,7 +8,7 @@
 <br>
  
 ## ⚠️ Vulnerability Management Projects
-- **[Vulnerability Management Program Implementation](https://github.com/Loughton03/Vulnerability-Management-Program)**
+- **[Vulnerability Management with Tenable](https://github.com/Loughton03/Vulnerability-Management-Program)**
 <br>
  
 ## 🚨 Threat Hunting and Security Operations
