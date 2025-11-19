@@ -8,7 +8,7 @@
 <br>
  
 ## ⚠️  AI + Cybersecurity w/Python (Building an Agent)
-- **[Agentic AI Cybersecurity with Python](https://github.com/Loughton03/Agentic AI Cybersecurity with Python)**
+- **[Agentic AI Cybersecurity with Python](https://github.com/Loughton03/Agentic-AI-Cybersecurity-with-Python)**
 <br>
 
 ## ⚠️ Vulnerability Management Projects
