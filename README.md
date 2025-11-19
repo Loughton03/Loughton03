@@ -1,20 +1,19 @@
 <h1>Hi, I'm Loughton, an <a href="https://linkedin.com/in/loughtonbennett">IT and Cybersecurity Professional</a></h1><br>
 
-## 👨‍💻 SOC / Honeynet Projects:</h2>
+## 👨‍💻 Threat Hunting and Security Operations:</h2>
 
 - **[Live SOC / Honeynet in Azure](https://github.com/Loughton03/Azure-SOC)**
- 
+- **[Windows Script Execution Attack - Incident Response (Atomic Red)](https://github.com/Loughton03/Windows-Script-Execution-Attack)**
 - **[Securing a SOC Environment To Be NIST SP 800-53 R5 Compliant](https://github.com/Loughton03/Securing-SOC)**
 <br>
  
+## ⚠️  AI + Cybersecurity w/Python (Building an Agent)
+- **[Agentic AI Cybersecurity with Python](https://github.com/Loughton03/Agentic AI Cybersecurity with Python)**
+<br>
+
 ## ⚠️ Vulnerability Management Projects
 - **[Vulnerability Management with Tenable](https://github.com/Loughton03/Vulnerability-Management-Program)**
 <br>
- 
-## 🚨 Threat Hunting and Security Operations
-- **[Threat Hunting Report (Tor Browser Usage)](https://github.com/Loughton03/Threat-Hunting-Report)**
-- **[Windows Script Execution Attack - Incident Response (Atomic Red)](https://github.com/Loughton03/Windows-Script-Execution-Attack)**
-<br>  
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
