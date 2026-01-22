@@ -3,7 +3,7 @@
 ## 👨‍💻 Threat Hunting and Security Operations:</h2>
 
 - **[Live SOC / Honeynet in Azure](https://github.com/Loughton03/Azure-SOC)**
-- **[Windows Script Execution Attack - Incident Response (Atomic Red)](https://github.com/Loughton03/Windows-Script-Execution-Attack)**
+- **[Threat-Hunt-Report-Unauthorized-TOR-Usage](https://github.com/Loughton03/Threat-Hunt-Report-Unauthorized-TOR-Usage)**
 - **[Securing a SOC Environment To Be NIST SP 800-53 R5 Compliant](https://github.com/Loughton03/Securing-SOC)**
 <br>
  
