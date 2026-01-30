@@ -9,11 +9,11 @@
 - **[DISA-STIGs](https://github.com/Loughton03/DISA-STIGs)**
 <br>
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management Projects:
 - **[Vulnerability Management with Tenable](https://github.com/Loughton03/Vulnerability-Management-Program)**
 <br>
  
-## ⚠️  AI + Cybersecurity w/Python (Building an Agent)
+## ⚠️  AI + Cybersecurity w/Python (Building an Agent):
 - **[Agentic AI Cybersecurity with Python](https://github.com/Loughton03/Agentic-AI-Cybersecurity-with-Python)**
 <br>
 
