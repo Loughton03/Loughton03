@@ -5,7 +5,7 @@
 - **[Live SOC / Honeynet in Azure](https://github.com/Loughton03/Azure-SOC)**
 - **[Threat-Hunt-Report-Unauthorized-TOR-Usage](https://github.com/Loughton03/Threat-Hunt-Report-Unauthorized-TOR-Usage)**
 - **[Securing a SOC Environment To Be NIST SP 800-53 R5 Compliant](https://github.com/Loughton03/Securing-SOC)**
-- **[Threat-Hunt-CorpHealth-Traceback](https://github.com/Loughton03/Threat-Hunt-CorpHealth-Traceback)** 
+- **[Threat-Hunt: Azuki: Bridge Takeover](https://github.com/Loughton03/Threat-Hunt-Azuki-Bridge-Takeover)** 
 - **[DISA-STIGs](https://github.com/Loughton03/DISA-STIGs)**
 <br>
 
