@@ -1,4 +1,4 @@
-<h1>Hi, I'm Loughton, an <a href="https://linkedin.com/in/loughtonbennett">IT and Cybersecurity Professional</a></h1><br>
+<h1>Hi, I'm Loughton, an <a href="https://linkedin.com/in/loughtonbennett">Cybersecurity Professional</a></h1><br>
 
 ## 👨‍💻 Threat Hunting and Security Operations:</h2>
 
