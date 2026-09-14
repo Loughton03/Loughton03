@@ -2,9 +2,9 @@
 
 ## 👨‍💻 Threat Hunting and Security Operations:</h2>
 
-- **[Live SOC / Honeynet in Azure](https://github.com/Loughton03/Azure-SOC)**
+- **[Live SOC / Honeynet in Azure](https://github.com/Loughton03/azure-SOC)**
 - **[Threat-Hunt-Report-Unauthorized-TOR-Usage](https://github.com/Loughton03/Threat-Hunt-Report-Unauthorized-TOR-Usage)**
-- **[Securing a SOC Environment To Be NIST SP 800-53 R5 Compliant](https://github.com/Loughton03/Securing-SOC)**
+- **[Securing a SOC Environment To Be NIST SP 800-53 R5 Compliant](https://github.com/Loughton03/Securing-a-SOC)**
 - **[Threat-Hunt: Azuki: Bridge Takeover](https://github.com/Loughton03/Threat-Hunt-Azuki-Bridge-Takeover)** 
 - **[DISA-STIGs](https://github.com/Loughton03/DISA-STIGs)**
 <br>
@@ -32,9 +32,9 @@
 <details>
 <summary>Active Directory - osTicket (Help Desk Ticketing System)</summary><br>
  
-  - [osTicket: Prerequisites and Installation](https://github.com/Loughton03/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Loughton03/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Loughton03/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/Loughton03/osTicket-Prerequisites-and-Installation)
+  - [osTicket: Post-Installation Configuration](https://github.com/Loughton03/osTicket-Post-Installation-Configuration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Loughton03/osTicket-Post-Installation-Configuration)
 </details> 
 
 <hr/>
