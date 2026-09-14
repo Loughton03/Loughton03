@@ -34,7 +34,7 @@
  
   - [osTicket: Prerequisites and Installation](https://github.com/Loughton03/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/Loughton03/osTicket-Post-Installation-Configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Loughton03/osTicket-Post-Installation-Configuration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Loughton03/osTicket-Ticket-Lifecycle-Examples)
 </details> 
 
 <hr/>
